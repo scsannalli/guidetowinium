@@ -1,5 +1,5 @@
 # guidetowinium
-Step by Step Guide to use Winium
+Step by Step Guide to get started with Winium
 
 This repo has been setup to run notepad application and enter "Hello World!!" text
 
